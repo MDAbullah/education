@@ -1,0 +1,111 @@
+.head{
+    background-color: rgb(253, 239, 223);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+    
+}
+body{
+    margin: auto;
+}
+.head-3{
+    color: rgb(250, 186, 108);
+    font-size: 30px;
+    margin-top: 40px;
+}
+.head-2{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.head-1{
+    color: rgb(249, 187, 111);
+    font-size: 30px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.head-2:hover{
+    color: rgb(249, 187, 111);
+}
+.side{
+    background-color: rgb(253, 239, 223);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.side-2{
+    font-size: 25px;
+    margin-left: 60px;
+}
+.side-1{
+    color: white;
+    background-color: rgb(255, 204, 141);
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 40px;
+    padding: 10px;
+    
+}
+.side-1:hover{
+    background-color: rgb(182, 182, 183);
+}
+.qqq{
+    margin-top: 40px;
+}
+.card{
+    background-color: rgb(253, 239, 223);
+    text-align: center;
+    padding: 50px;
+
+}
+.card-1{
+    font-size: 60px;
+    color: rgb(83, 83, 83);
+}
+.card-2{
+    font-size: 25px;
+}
+.card-3{
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+.card-4{
+    display: grid;
+    grid-template-columns: repeat(3,0fr);
+    margin-top: 300px;
+    
+    
+
+}
+.htt{
+    background-color: rgb(17, 17, 22);
+    color: white;
+    text-align: center;
+    padding: 90px;
+}
+.htt-1{
+    font-size: 30px;
+    font-weight: 600;
+}
+.round{
+    border-radius: 10%;
+    background-color: white;
+    margin-left: 100px;
+}
+.round-1{
+    
+    border-radius: 10%;
+    background-color: white;
+    margin-left: 20px;
+}
+.round-2{
+    border-radius: 10%;
+    background-color: white;
+    margin-left: 20px;
+}
